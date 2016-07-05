@@ -1,1 +1,4 @@
 *.meta
+Temp/
+*.sln
+*.csproj
