@@ -1,0 +1,17 @@
+/Users/Loli/Downloads/WWWW/Temp/bin/Debug/UnityEngine.dll
+/Users/Loli/Downloads/WWWW/Temp/bin/Debug/UnityEditor.dll
+/Users/Loli/Downloads/WWWW/Temp/bin/Debug/UnityEngine.UI.dll
+/Users/Loli/Downloads/WWWW/Temp/bin/Debug/UnityEngine.Networking.dll
+/Users/Loli/Downloads/WWWW/Temp/bin/Debug/Mono.Cecil.dll
+/Users/Loli/Downloads/WWWW/Temp/bin/Debug/Unity.SerializationLogic.dll
+/Users/Loli/Downloads/WWWW/Temp/bin/Debug/Unity.DataContract.dll
+/Users/Loli/Downloads/WWWW/Temp/bin/Debug/ICSharpCode.NRefactory.dll
+/Users/Loli/Downloads/WWWW/Temp/bin/Debug/Unity.UNetWeaver.dll
+/Users/Loli/Downloads/WWWW/Temp/bin/Debug/Unity.UNetWeaver.dll.mdb
+/Users/Loli/Downloads/WWWW/Temp/bin/Debug/Unity.CecilTools.dll
+/Users/Loli/Downloads/WWWW/Temp/bin/Debug/Mono.Cecil.Pdb.dll
+/Users/Loli/Downloads/WWWW/Temp/bin/Debug/Mono.Cecil.Mdb.dll
+/Users/Loli/Downloads/WWWW/Temp/bin/Debug/Assembly-CSharp.dll.mdb
+/Users/Loli/Downloads/WWWW/Temp/bin/Debug/Assembly-CSharp.dll
+/Users/Loli/Downloads/WWWW/obj/Debug/Assembly-CSharp.dll
+/Users/Loli/Downloads/WWWW/obj/Debug/Assembly-CSharp.dll.mdb
